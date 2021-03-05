@@ -11,8 +11,8 @@ The files are labelled according to a bizarre convention that only makes sense b
 
 The translations for the cosmological models are:
 
+`cos26:`
 ```
-cos26:
 Om_m = 0.30
 Om_b = 0.05
 h = 0.7
@@ -25,8 +25,8 @@ mnu = 0.
 logT = 7.8
 ```
 
+`cos56:`
 ```
-cos56:
 Om_m = 0.3158
 Om_b = 0.04939
 h = 0.6732
