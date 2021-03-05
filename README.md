@@ -12,7 +12,7 @@ The files are labelled according to a bizarre convention that only makes sense b
 The translations for the cosmological models are:
 
 ```
-cos26
+cos26:
 Om_m = 0.30
 Om_b = 0.05
 h = 0.7
