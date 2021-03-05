@@ -103,9 +103,12 @@ As = 3.35538e-9
 
 `icos250:`
 The same as `cos26` but for:
-`logT = 7.6`
+```
+logT = 7.6
+```
 
 `icos251:`
 The same as `cos26` but for:
-`logT = 8.0`
+```
+logT = 8.0
 ```
